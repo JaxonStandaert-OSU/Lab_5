@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../buildMultiTargeting/Project-Team-One.Api.props" />
+</Project>

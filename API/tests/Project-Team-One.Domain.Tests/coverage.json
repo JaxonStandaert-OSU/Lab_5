@@ -1,0 +1,290 @@
+{
+  "Project-Team-One.Domain.dll": {
+    "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/Orders/Orders.cs": {
+      "Project.Team.One.Domain.Orders.Order": {
+        "System.Int32 Project.Team.One.Domain.Orders.Order::get_Id()": {
+          "Lines": {
+            "9": 0
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Project.Team.One.Domain.Orders.OrderItem> Project.Team.One.Domain.Orders.Order::get_Items()": {
+          "Lines": {
+            "10": 0
+          },
+          "Branches": []
+        },
+        "System.DateTime Project.Team.One.Domain.Orders.Order::get_CreatedDate()": {
+          "Lines": {
+            "11": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal Project.Team.One.Domain.Orders.Order::get_TotalPrice()": {
+          "Lines": {
+            "12": 0
+          },
+          "Branches": []
+        }
+      },
+      "Project.Team.One.Domain.Orders.OrderItem": {
+        "System.Int32 Project.Team.One.Domain.Orders.OrderItem::get_Id()": {
+          "Lines": {
+            "17": 0
+          },
+          "Branches": []
+        },
+        "Project.Team.One.Domain.Catalog.Item Project.Team.One.Domain.Orders.OrderItem::get_Item()": {
+          "Lines": {
+            "18": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Project.Team.One.Domain.Orders.OrderItem::get_Quantity()": {
+          "Lines": {
+            "19": 0
+          },
+          "Branches": []
+        },
+        "System.Decimal Project.Team.One.Domain.Orders.OrderItem::get_Price()": {
+          "Lines": {
+            "20": 0
+          },
+          "Branches": []
+        }
+      }
+    },
+    "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/Catalog/Item.cs": {
+      "Project.Team.One.Domain.Catalog.Item": {
+        "System.Int32 Project.Team.One.Domain.Catalog.Item::get_Id()": {
+          "Lines": {
+            "7": 0
+          },
+          "Branches": []
+        },
+        "System.String Project.Team.One.Domain.Catalog.Item::get_Name()": {
+          "Lines": {
+            "8": 3
+          },
+          "Branches": []
+        },
+        "System.String Project.Team.One.Domain.Catalog.Item::get_Description()": {
+          "Lines": {
+            "9": 3
+          },
+          "Branches": []
+        },
+        "System.String Project.Team.One.Domain.Catalog.Item::get_Brand()": {
+          "Lines": {
+            "10": 3
+          },
+          "Branches": []
+        },
+        "System.Decimal Project.Team.One.Domain.Catalog.Item::get_Price()": {
+          "Lines": {
+            "11": 3
+          },
+          "Branches": []
+        },
+        "System.Collections.Generic.List`1<Project.Team.One.Domain.Catalog.Rating> Project.Team.One.Domain.Catalog.Item::get_Ratings()": {
+          "Lines": {
+            "12": 4
+          },
+          "Branches": []
+        },
+        "System.Void Project.Team.One.Domain.Catalog.Item::AddRating(Project.Team.One.Domain.Catalog.Rating)": {
+          "Lines": {
+            "38": 1,
+            "39": 1,
+            "40": 1
+          },
+          "Branches": []
+        },
+        "System.Void Project.Team.One.Domain.Catalog.Item::.ctor(System.String,System.String,System.String,System.Decimal)": {
+          "Lines": {
+            "14": 2,
+            "15": 2,
+            "16": 2,
+            "17": 0,
+            "18": 0,
+            "20": 2,
+            "21": 0,
+            "22": 0,
+            "24": 2,
+            "25": 0,
+            "26": 0,
+            "28": 2,
+            "29": 0,
+            "30": 0,
+            "32": 2,
+            "33": 2,
+            "34": 2,
+            "35": 2,
+            "36": 2
+          },
+          "Branches": [
+            {
+              "Line": 16,
+              "Offset": 27,
+              "EndOffset": 29,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 0
+            },
+            {
+              "Line": 16,
+              "Offset": 27,
+              "EndOffset": 37,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 2
+            },
+            {
+              "Line": 20,
+              "Offset": 45,
+              "EndOffset": 47,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 0
+            },
+            {
+              "Line": 20,
+              "Offset": 45,
+              "EndOffset": 55,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 24,
+              "Offset": 63,
+              "EndOffset": 65,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 24,
+              "Offset": 63,
+              "EndOffset": 73,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            },
+            {
+              "Line": 28,
+              "Offset": 92,
+              "EndOffset": 94,
+              "Path": 0,
+              "Ordinal": 6,
+              "Hits": 0
+            },
+            {
+              "Line": 28,
+              "Offset": 92,
+              "EndOffset": 106,
+              "Path": 1,
+              "Ordinal": 7,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    },
+    "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/Catalog/Rating.cs": {
+      "Project.Team.One.Domain.Catalog.Rating": {
+        "System.Int32 Project.Team.One.Domain.Catalog.Rating::get_Id()": {
+          "Lines": {
+            "5": 0
+          },
+          "Branches": []
+        },
+        "System.Int32 Project.Team.One.Domain.Catalog.Rating::get_Stars()": {
+          "Lines": {
+            "6": 3
+          },
+          "Branches": []
+        },
+        "System.String Project.Team.One.Domain.Catalog.Rating::get_UserName()": {
+          "Lines": {
+            "7": 3
+          },
+          "Branches": []
+        },
+        "System.String Project.Team.One.Domain.Catalog.Rating::get_Review()": {
+          "Lines": {
+            "8": 3
+          },
+          "Branches": []
+        },
+        "System.Void Project.Team.One.Domain.Catalog.Rating::.ctor(System.Int32,System.String,System.String)": {
+          "Lines": {
+            "10": 3,
+            "11": 3,
+            "12": 3,
+            "13": 3,
+            "14": 1,
+            "15": 1,
+            "18": 2,
+            "19": 0,
+            "20": 0,
+            "23": 2,
+            "24": 2,
+            "25": 2,
+            "26": 2
+          },
+          "Branches": [
+            {
+              "Line": 13,
+              "Offset": 10,
+              "EndOffset": 12,
+              "Path": 0,
+              "Ordinal": 0,
+              "Hits": 2
+            },
+            {
+              "Line": 13,
+              "Offset": 10,
+              "EndOffset": 18,
+              "Path": 1,
+              "Ordinal": 1,
+              "Hits": 1
+            },
+            {
+              "Line": 13,
+              "Offset": 21,
+              "EndOffset": 23,
+              "Path": 0,
+              "Ordinal": 2,
+              "Hits": 1
+            },
+            {
+              "Line": 13,
+              "Offset": 21,
+              "EndOffset": 35,
+              "Path": 1,
+              "Ordinal": 3,
+              "Hits": 2
+            },
+            {
+              "Line": 18,
+              "Offset": 43,
+              "EndOffset": 45,
+              "Path": 0,
+              "Ordinal": 4,
+              "Hits": 0
+            },
+            {
+              "Line": 18,
+              "Offset": 43,
+              "EndOffset": 57,
+              "Path": 1,
+              "Ordinal": 5,
+              "Hits": 2
+            }
+          ]
+        }
+      }
+    }
+  }
+}

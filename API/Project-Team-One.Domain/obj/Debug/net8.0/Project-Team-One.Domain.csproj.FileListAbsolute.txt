@@ -1,0 +1,12 @@
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/bin/Debug/net8.0/Project-Team-One.Domain.deps.json
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/bin/Debug/net8.0/Project-Team-One.Domain.dll
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/bin/Debug/net8.0/Project-Team-One.Domain.pdb
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/obj/Debug/net8.0/Project-Team-One.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/obj/Debug/net8.0/Project-Team-One.Domain.AssemblyInfoInputs.cache
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/obj/Debug/net8.0/Project-Team-One.Domain.AssemblyInfo.cs
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/obj/Debug/net8.0/Project-Team-One.Domain.csproj.CoreCompileInputs.cache
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/obj/Debug/net8.0/Project-Team-One.Domain.sourcelink.json
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/obj/Debug/net8.0/Project-Team-One.Domain.dll
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/obj/Debug/net8.0/refint/Project-Team-One.Domain.dll
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/obj/Debug/net8.0/Project-Team-One.Domain.pdb
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/obj/Debug/net8.0/ref/Project-Team-One.Domain.dll

@@ -1,0 +1,16 @@
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/bin/Debug/net8.0/Project-Team-One.Data.deps.json
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/bin/Debug/net8.0/Project-Team-One.Data.dll
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/bin/Debug/net8.0/Project-Team-One.Data.pdb
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/bin/Debug/net8.0/Project-Team-One.Domain.dll
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/bin/Debug/net8.0/Project-Team-One.Domain.pdb
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/obj/Debug/net8.0/Project-Team-One.Data.csproj.AssemblyReference.cache
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/obj/Debug/net8.0/Project-Team-One.Data.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/obj/Debug/net8.0/Project-Team-One.Data.AssemblyInfoInputs.cache
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/obj/Debug/net8.0/Project-Team-One.Data.AssemblyInfo.cs
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/obj/Debug/net8.0/Project-Team-One.Data.csproj.CoreCompileInputs.cache
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/obj/Debug/net8.0/Project-Team-One.Data.sourcelink.json
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/obj/Debug/net8.0/Project-.67305809.Up2Date
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/obj/Debug/net8.0/Project-Team-One.Data.dll
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/obj/Debug/net8.0/refint/Project-Team-One.Data.dll
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/obj/Debug/net8.0/Project-Team-One.Data.pdb
+/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/obj/Debug/net8.0/ref/Project-Team-One.Data.dll
