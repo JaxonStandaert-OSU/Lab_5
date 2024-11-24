@@ -8,43 +8,24 @@ using Project.Team.One.Data;
 
 namespace jet.piranha.Api
 {
-    public class Startup
-    {
-        public Startup(IConfiguration configuration)
+     public class Startup
+     {
+        public void ConfigureServices (IServiceCollection services)
         {
-            Configuration = configuration;
-        }
-
-        public IConfiguration Configuration { get; }
-
-        public void ConfigureServices(IServiceCollection services)
-        {
-            services.AddControllers();
-            services.AddEndpointsApiExplorer();
-            services.AddSwaggerGen();
-            services.AddDbContext<StoreContext>(options =>
-                options.UseSqlite("Data Source=../Registrar.sqlite",
-                    b => b.MigrationsAssembly("Project-Team-One.Api")));
-        }
-
-        public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
-        {
-            if (env.IsDevelopment())
+          services.AddControllers (); 
+          services.AddEndpointsApiExplorer();
+          services.AddSwaggerGen();
+        // services.AddDbContext<StoreContext>(options =>
+        //      options.UseSqlite("Data Source=. /Registrar.sqlite", 
+        //          => b.MigrationsAssembly("jet.piranha.Api")));
+            services. AddCors(options=>
             {
-                app.UseDeveloperExceptionPage();
-                app.UseSwagger();
-                app.UseSwaggerUI(c => c.SwaggerEndpoint("/swagger/v1/swagger.json", "jet.piranha.Api v1"));
-            }
-
-            app.UseHttpsRedirection();
-
-            app.UseRouting();
-
-            app.UseAuthorization();
-
-            app.UseEndpoints(endpoints =>
-            {
-                endpoints.MapControllers();
+                options.AddDefaultPolicy(builder =>
+                {
+                builder.WithOrigins("htttp:localhost:3000")
+                .AllowAnyMethod()
+                .AllowAnyHeader();
+                });
             });
         }
     }

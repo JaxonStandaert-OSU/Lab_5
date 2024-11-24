@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "LlHkj2gCIMk=",
+  "dgSpecHash": "Mrk8hErNKiM=",
   "success": true,
-  "projectFilePath": "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/Project-Team-One.Data.csproj",
+  "projectFilePath": "/Users/jaxonstandaert/Lab_5/API/Project-Team-One.Data/Project-Team-One.Data.csproj",
   "expectedPackageFiles": [
     "/Users/jaxonstandaert/.nuget/packages/microsoft.data.sqlite.core/8.0.10/microsoft.data.sqlite.core.8.0.10.nupkg.sha512",
     "/Users/jaxonstandaert/.nuget/packages/microsoft.entityframeworkcore/8.0.10/microsoft.entityframeworkcore.8.0.10.nupkg.sha512",

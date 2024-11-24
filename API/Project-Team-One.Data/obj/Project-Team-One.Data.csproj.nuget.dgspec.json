@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/Project-Team-One.Data.csproj": {}
+    "/Users/jaxonstandaert/Lab_5/API/Project-Team-One.Data/Project-Team-One.Data.csproj": {}
   },
   "projects": {
-    "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/Project-Team-One.Data.csproj": {
+    "/Users/jaxonstandaert/Lab_5/API/Project-Team-One.Data/Project-Team-One.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/Project-Team-One.Data.csproj",
+        "projectUniqueName": "/Users/jaxonstandaert/Lab_5/API/Project-Team-One.Data/Project-Team-One.Data.csproj",
         "projectName": "Project-Team-One.Data",
-        "projectPath": "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/Project-Team-One.Data.csproj",
+        "projectPath": "/Users/jaxonstandaert/Lab_5/API/Project-Team-One.Data/Project-Team-One.Data.csproj",
         "packagesPath": "/Users/jaxonstandaert/.nuget/packages/",
-        "outputPath": "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Data/obj/",
+        "outputPath": "/Users/jaxonstandaert/Lab_5/API/Project-Team-One.Data/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jaxonstandaert/.nuget/NuGet/NuGet.Config"
@@ -26,8 +26,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/Project-Team-One.Domain.csproj": {
-                "projectPath": "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/Project-Team-One.Domain.csproj"
+              "/Users/jaxonstandaert/Lab_5/API/Project-Team-One.Domain/Project-Team-One.Domain.csproj": {
+                "projectPath": "/Users/jaxonstandaert/Lab_5/API/Project-Team-One.Domain/Project-Team-One.Domain.csproj"
               }
             }
           }
@@ -72,14 +72,14 @@
         }
       }
     },
-    "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/Project-Team-One.Domain.csproj": {
+    "/Users/jaxonstandaert/Lab_5/API/Project-Team-One.Domain/Project-Team-One.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/Project-Team-One.Domain.csproj",
+        "projectUniqueName": "/Users/jaxonstandaert/Lab_5/API/Project-Team-One.Domain/Project-Team-One.Domain.csproj",
         "projectName": "Project-Team-One.Domain",
-        "projectPath": "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/Project-Team-One.Domain.csproj",
+        "projectPath": "/Users/jaxonstandaert/Lab_5/API/Project-Team-One.Domain/Project-Team-One.Domain.csproj",
         "packagesPath": "/Users/jaxonstandaert/.nuget/packages/",
-        "outputPath": "/Users/jaxonstandaert/Documents/Lab_5/Project-Team-One-API/Project-Team-One.Domain/obj/",
+        "outputPath": "/Users/jaxonstandaert/Lab_5/API/Project-Team-One.Domain/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/jaxonstandaert/.nuget/NuGet/NuGet.Config"
